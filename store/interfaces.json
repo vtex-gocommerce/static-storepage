@@ -1,0 +1,7 @@
+{
+  "store.static-storepage": {
+    "required": [],
+    "allowed": [],
+    "component": "index"
+  }
+}
